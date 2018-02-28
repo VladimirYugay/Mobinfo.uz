@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/start_shopping"
+        android:title="Найти телефон"
+        android:icon="@drawable/ic_add_shopping_cart_white_24dp"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/start_search"
+        android:title="@string/search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom"
+        />
+</menu>

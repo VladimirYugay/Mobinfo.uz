@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vladimir/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-f8a5ba27db12edca12886d3807ed37e210c27d15.jar" />
+    </item>
+    <item
+        jar="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/exploded-aar/com.r0adkll/slidableactivity/2.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3db830797657602dbe1503c766152e85eb5ad9a">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/classes-44e4b496977c4379e7d12b98d83b1835553673e3.jar" />
+    </item>
+    <item
+        jar="/home/vladimir/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-2e3bf90ea32fcaa8e46e75c777dd55fbedcd8cac.jar" />
+    </item>
+    <item
+        jar="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/classes-37a3fbf23360867f8de88d7820e715ce5bde0fd1.jar" />
+    </item>
+    <item
+        jar="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/classes-997c158f925c87f3d61fe8e025f4ea3a638f0024.jar" />
+    </item>
+    <item
+        jar="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-b05f8ed85794dbc93db91c24f21b0726defb983e.jar" />
+    </item>
+    <item
+        jar="/home/vladimir/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/okio-1.4.0-15ab4bfa79f48da17725f81e58766369902a906e.jar" />
+    </item>
+    <item
+        jar="/home/vladimir/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-c4521aafa55d1764192d23be2667af2758733b44.jar" />
+    </item>
+    <item
+        jar="/home/vladimir/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/systembartint-1.0.3-0c02fb23eb76a9efbd344d0a1768384d082a4395.jar" />
+    </item>
+    <item
+        jar="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/classes-03a9a65650f786744d17f17665252764732463ea.jar" />
+    </item>
+    <item
+        jar="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/classes-77d564417d8661788ef3a75a97a10ba8e2125d64.jar" />
+    </item>
+    <item
+        jar="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/classes-9952780016acceaddd742d372949774a5928b3e0.jar" />
+    </item>
+    <item
+        jar="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/classes-1ef4035814e61f94c617a6196a4424ae0d5f7c13.jar" />
+    </item>
+    <item
+        jar="/home/vladimir/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.2/64238922c4006c3d0a9951c4c03983ecc6a1e1a0/jsoup-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="64238922c4006c3d0a9951c4c03983ecc6a1e1a0">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/jsoup-1.8.2-d31460e5a365c0fc16efde9b88d73f322c66e419.jar" />
+    </item>
+    <item
+        jar="/home/vladimir/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/glide-3.6.0-23578f9812d34aed344377f2daf4519ecbb89c19.jar" />
+    </item>
+    <item
+        jar="/home/vladimir/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/media/vladimir/2FFD1E60713CB27F/Programming/Android/AndroidStudioProjects/Mobinfo.uz/app/build/intermediates/pre-dexed/debug/library-2.4.0-57112086295a52aaf2147e36abb38df1eb03cdb5.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,64 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:background="#FFFFFF"
+    tools:context="com.example.user.mobinfouz.Search.SearchableActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.Toolbar
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_height="56dp"
+            android:layout_width="match_parent"
+            android:minHeight="56dp"
+            android:id="@+id/toolbar" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/searchRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+
+    <com.melnykov.fab.FloatingActionButton
+        android:id="@+id/search_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="16dp"
+        android:src="@drawable/fab"
+        fab:fab_colorNormal="@color/basic"
+        fab:fab_colorPressed="@color/secondary"
+        fab:fab_colorRipple="@color/toolbar" />
+
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:id="@+id/error_text"/>
+
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:id="@+id/loading_text"
+        android:textAlignment="center"
+        style="@style/Base.TextAppearance.AppCompat.Headline"/>
+
+
+        <!--<ProgressBar-->
+            <!--android:layout_width="50dp"-->
+            <!--android:layout_height="50dp"-->
+            <!--android:id="@+id/search_progress"-->
+            <!--android:layout_gravity="center"/>-->
+
+</FrameLayout>

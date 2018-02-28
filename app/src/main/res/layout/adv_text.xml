@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    card_view:cardCornerRadius="4dp"
+    android:layout_margin="5dp">
+
+    <TextView
+        android:textColor="@color/black"
+        android:background="@color/yellow"
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/adv_text"
+        android:text="Новая акция «6000 бонусов!» от Beeline!
+С 15 июля по 30 сентября 2015 года!
+
+Купите смартфон Samsung Galaxy S6 и получайте бонусы!
+Каждый месяц по 2000 MB, 2000 минут внутри сети и 2000 SMS внутри сети в течение 3-х месяцев бесплатно!
+
+Покупку смартфона можете осуществить в любом городе по всему Узбекистану."/>
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/novosti"
+        android:title="@string/novosti"
+        android:icon="@drawable/news"
+        android:checkable="true"
+        android:checked="true"
+/>
+    <item
+        android:id="@+id/novinki"
+        android:title="@string/novinki"
+        android:icon="@drawable/latest"
+        android:checkable="true"
+       />
+    <item
+        android:id="@+id/ratings"
+        android:title="@string/ratings"
+        android:icon="@drawable/ratings"
+        android:checkable="true"
+        />
+    <item
+        android:id="@+id/compare"
+        android:title="@string/compare"
+        android:icon="@drawable/compare"
+        android:checkable="true"
+        />
+    <item
+        android:id="@+id/obzory"
+        android:title="@string/obzory"
+        android:icon="@drawable/overview"
+        android:checkable="true"
+        />
+    <item
+        android:id="@+id/prilozheniya"
+        android:title="@string/prilozheniya"
+        android:icon="@drawable/apps"
+        android:checkable="true"
+
+        />
+    <item
+        android:id="@+id/poleznaya"
+        android:title="@string/poleznaya"
+        android:icon="@drawable/useful"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/seny"
+        android:title="@string/seny"
+        android:icon="@drawable/price"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/operators"
+        android:title="@string/operators"
+        android:icon="@drawable/operator"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/contact_us"
+        android:title="@string/contacts"
+        android:checkable="true"
+        android:icon="@drawable/ic_contact_phone_black_24dp"/>
+
+    <item android:id="@+id/adv"
+        android:title="@string/adv"
+        android:checkable="true"
+        android:icon="@drawable/ic_local_offer_black_24dp"/>
+</menu>

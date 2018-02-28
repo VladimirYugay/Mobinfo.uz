@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="black">#000</color>
+    <color name="basic">#0C709B</color>
+    <color name="toolbar">#ffffff</color>
+    <color name="secondary">#096289</color>
+    <color name="light">#FDFDFD</color>
+    <color name="background">#D6DBDC</color>
+    <color name="yellow">#ECDD0C</color>
+
+</resources>

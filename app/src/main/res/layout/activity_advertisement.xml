@@ -1,0 +1,29 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.user.mobinfouz.Advertisement"
+    android:background="@color/light"
+    card_view:cardCornerRadius="4dp"
+    android:layout_margin="5dp">
+
+    <TextView
+        android:textSize="17sp"
+        android:textColor="@color/black"
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/adv_text"
+        android:lines="15"
+        android:text="  Реклама на сайте
+\n По вопросам размещения рекламы на Mobinfo.uz обращайтесь по телефону +998977476489.
+
+\n Администрация сайта оставляет за собой право уточнять вид и сферу деятельности рекламодателей, а также отказать в размещении рекламных материалов без объяснения причин.
+
+\n Не подлежат размещению рекламно-информационные материалы, противоречащие действующему законодательству Республики Узбекистан и нормам общественной морали.
+
+\n Для получения прочей информации, не касающейся рекламы, обращайтесь по mobinfosete@gmail.com"/>
+
+
+</android.support.v7.widget.CardView>

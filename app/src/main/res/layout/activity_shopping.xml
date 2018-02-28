@@ -1,0 +1,47 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.mobinfouz.Shopping.ShoppingActivity"
+    android:background="@color/light">
+
+    <android.support.v7.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="56dp"
+        android:layout_width="match_parent"
+        android:minHeight="56dp"
+        android:id="@+id/toolbar" />
+
+    <FrameLayout
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center">
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/shop_progress"
+            android:layout_gravity="left|center_vertical" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/error_text"
+            android:text="@string/error"/>
+
+    </FrameLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/shop_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="499dp"
+        android:layout_below="@+id/toolbar"
+        android:layout_gravity="center_horizontal|bottom" />
+</FrameLayout>
